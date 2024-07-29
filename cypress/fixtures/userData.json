@@ -1,0 +1,7 @@
+{
+    "validUsername": "momusleh",
+    "validPassword": "Val@34!234",
+    "invalidUsername": "invalidUsername",
+    "invalidPassword": "invalidpassword",
+    "baseUrl": "https://eval.asaltech.com/"
+  }

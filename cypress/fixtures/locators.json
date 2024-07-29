@@ -1,0 +1,22 @@
+
+{
+    "login": {
+      "title": ".text-xl",
+      "usernameTitle": "input[name='username']",
+      "passwordTitle": "[for='password']",
+      "forgetPassword": "a[href='mailto:admin@asaltech.com']",
+      "signIn": ".btn",
+      "username": "#email",
+      "password": "#password", 
+      "asalLogo": "img[src='/logos/Asal Technologies.svg']",
+      "auroraLogo": "img[src='/logos/Aurora.svg']",
+      "orionLogo": "img[src='/logos/Orion.svg']",
+      "errorMessage": ".p-4 > div'"
+    },
+
+
+    "home": {
+      "name": "Group2",
+      "value": "Data2"
+    }
+  }
